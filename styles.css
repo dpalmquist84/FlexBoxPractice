@@ -1,0 +1,26 @@
+#home {
+    width: 10%;
+    height: 50px;
+    background: yellowgreen;
+}
+
+#search {
+     width: 10%;
+     height: 50px;
+     background: orangered;
+}
+
+#logout {
+     width: 10%;
+     height: 50px;
+     background: yellowgreen;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border-style: solid;
+    border-width: thin;
+    border-color: blue;
+}
